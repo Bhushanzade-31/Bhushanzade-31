@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Bhushan Zade 👋
 
-<!--
-**Bhushanzade-31/Bhushanzade-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 🎓 CSE Student  
+🚀 Passionate about building scalable and user-friendly web applications  
 
-Here are some ideas to get you started:
+🛠 **Tech Stack:**  
+Java • JavaScript • Python • React • Node.js • Express • MongoDB • SQL                              ![developer](https://github.com/user-attachments/assets/5fee3c4c-8a69-4216-9271-6e4a3a3268da)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+📌 **Projects:**  
+- 🏥 HealthEase – AI-powered healthcare assistant  
+- ☁️ Cloud Drive – Cloud-based photo management system  
+- 🌦️ Weather App – Real-time weather forecasting app  
+
+📫 **Connect with me:**  
+🔗 GitHub: https://github.com/Bhushanzade-31  
+📧 Email: bhushanzade.sit.comp@gmail.com
