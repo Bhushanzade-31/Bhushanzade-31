@@ -1,7 +1,7 @@
 # Hi, I'm Bhushan Zade 👋
 
 💻 **Software Developer | CSE Graduate 2026**
-🚀 Passionate about building scalable, user-friendly, and real-world applications.
+🚀 Passionate about building **scalable, user-friendly, and real-world applications**.
 
 ### 🛠️ Tech Stack
 
@@ -13,25 +13,21 @@
 
 ### 🎓 Education
 
-
-
 **B.E. Computer Engineering**
-Sinhgad Institute of Technology 
-CGPA: 7.8 / 10
-2022–2026
+🏫 Sinhgad Institute of Technology
+📅 2022–2026
+📊 **CGPA: 7.8 / 10**
 
 ### 🏆 Certifications
 
-* 📜 Java Programming
-* 📜 Python Programming
-* 📜 SQL & Database Management
-* 📜 Web Development
-* 📜 AI & Machine Learning
-
+* 📜 MERN Stack Development | apna collage
+* 📜 Python Essentials 1 | Cisco Networking Academy
+* 📜  Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle
+  
 ### 📌 Featured Projects
 
 * 💳 **Payment Gateway** — Payment simulation system using Java & Logical Data Modeling
-* 🧠 **Image Captioning (CapGen)** — AI-based image caption generation using Python, TensorFlow, InceptionV3 & LSTM
+* 🧠 **Image Captioning (CapGen)** — Image caption generation using Python, TensorFlow, InceptionV3 & LSTM
 * 🏥 **HealthEase** — AI-powered healthcare assistant using React, Node.js, SQL & REST APIs
 * ☁️ **Cloud Drive** — Cloud-based photo management system using React, Node.js, SQL, REST APIs & Cloudinary
 * 🌦️ **Weather App** — Real-time weather forecasting application
