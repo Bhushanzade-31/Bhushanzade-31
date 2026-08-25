@@ -1,23 +1,51 @@
-## Hi, I'm Bhushan Zade 👋
+# Hi, I'm Bhushan Zade 👋
 
-💻 Software Developer | 🎓 CSE Student 2026 
-🚀 Passionate about building scalable and user-friendly web applications  
+💻 **Software Developer | CSE Graduate 2026**
+🚀 Passionate about building scalable, user-friendly, and real-world applications.
 
-🛠 **Tech Stack:**  
-•Java • Python  • Keras • Tenserflow • JavaScript • Node.js • MERN Stack • SQL                           
+### 🛠️ Tech Stack
 
+**Languages:** Java • Python • JavaScript • SQL
+**Web:** React • Node.js • MERN Stack • REST APIs
+**AI/ML:** TensorFlow • Keras • CNN • LSTM
+**Database:** MySQL • SQL
+**Tools:** Git • GitHub • Cloudinary
 
+### 🎓 Education
 
-📌 **Projects:**  
-- 💳Payment Gateway Simulation System | Java , Logical Data Modeling (LDM)
-- 🧠Image Captioning System (CapGen) | Python, TensorFlow, InceptionV3, LSTM , CNN
-- 🏥 HealthEase – AI-powered healthcare assistant  |React , Nodejs, sql , Rest API
-- ☁️ Cloud Drive – Cloud-based photo management system  |React , Nodejs, sql , Rest API ,Cloudnary
-- 🌦️ Weather App – Real-time weather forecasting app
-- 🔢 Handwritten Digit Recognition using Keras & TensorFlow
+**Bachelor of Engineering – Computer Science & Engineering**
+📅 **2022 – 2026**
 
-📫 **Connect with me:**  
-🔗 GitHub: https://github.com/Bhushanzade-31  
-📧 Email: bhushanzade.work@gmail.com
-📧 Email:bhushanzade2003@gmail.com
+### 🏆 Certifications
 
+* 📜 Java Programming
+* 📜 Python Programming
+* 📜 SQL & Database Management
+* 📜 Web Development
+* 📜 AI & Machine Learning
+
+### 📌 Featured Projects
+
+* 💳 **Payment Gateway** — Payment simulation system using Java & Logical Data Modeling
+* 🧠 **Image Captioning (CapGen)** — AI-based image caption generation using Python, TensorFlow, InceptionV3 & LSTM
+* 🏥 **HealthEase** — AI-powered healthcare assistant using React, Node.js, SQL & REST APIs
+* ☁️ **Cloud Drive** — Cloud-based photo management system using React, Node.js, SQL, REST APIs & Cloudinary
+* 🌦️ **Weather App** — Real-time weather forecasting application
+* 🔢 **Handwritten Digit Recognition** — Digit classification using Keras & TensorFlow
+
+### 🌱 Currently Exploring
+
+* Spring Boot & Backend Development
+* Cloud Technologies
+* Data Structures & Algorithms
+* AI/ML Applications
+
+### 📫 Connect With Me
+
+🔗 **GitHub:** [Bhushan Zade](https://github.com/Bhushanzade-31)
+📧 **Email:** [bhushanzade.work@gmail.com](mailto:bhushanzade.work@gmail.com)
+📧 **Email:** [bhushanzade2003@gmail.com](mailto:bhushanzade2003@gmail.com)
+
+---
+
+⭐ **Always learning • Building • Improving**
