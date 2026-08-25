@@ -13,8 +13,12 @@
 
 ### 🎓 Education
 
-**Bachelor of Engineering – Computer Science & Engineering**
-📅 **2022 – 2026**
+
+
+**B.E. Computer Engineering**
+Sinhgad Institute of Technology · 2022–2026
+CGPA: 7.8 / 10
+
 
 ### 🏆 Certifications
 
