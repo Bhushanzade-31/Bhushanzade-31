@@ -1,6 +1,6 @@
 # Hi, I'm Bhushan Zade 👋
 
-💻 **Software Developer | CSE Graduate 2026**
+💻 **Software Developer | Computer Engineering Graduate 2026**
 🚀 Passionate about building **scalable, user-friendly, and real-world applications**.
 
 ### 🛠️ Tech Stack
@@ -8,7 +8,7 @@
 **Languages:** Java • Python • JavaScript • SQL
 **Web:** React • Node.js • MERN Stack • REST APIs
 **AI/ML:** TensorFlow • Keras • CNN • LSTM
-**Database:** MySQL • SQL
+**Database:** MySQL
 **Tools:** Git • GitHub • Cloudinary
 
 ### 🎓 Education
@@ -20,10 +20,10 @@
 
 ### 🏆 Certifications
 
-* 📜 MERN Stack Development | apna collage
-* 📜 Python Essentials 1 | Cisco Networking Academy
-* 📜  Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle
-  
+* 📜 **MERN Stack Development** — Apna College
+* 📜 **Python Essentials 1** — Cisco Networking Academy
+* 📜 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — Oracle
+
 ### 📌 Featured Projects
 
 * 💳 **Payment Gateway** — Payment simulation system using Java & Logical Data Modeling
