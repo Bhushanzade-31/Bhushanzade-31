@@ -16,9 +16,9 @@
 
 
 **B.E. Computer Engineering**
-Sinhgad Institute of Technology · 2022–2026
+Sinhgad Institute of Technology 
 CGPA: 7.8 / 10
-
+2022–2026
 
 ### 🏆 Certifications
 
