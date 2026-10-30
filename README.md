@@ -1,50 +1,59 @@
 # Hi, I'm Bhushan Zade 👋
 
-💻 **Software Developer | Computer Engineering Graduate 2026**
-🚀 Passionate about building **scalable, user-friendly, and real-world applications**.
+💻 **Java Full Stack & Generative AI Developer | Computer Engineering Graduate 2026**
+🚀 I build scalable backend systems with **Java & Spring Boot** and AI-powered applications with **Python, FastAPI & LLMs**.
 
 ### 🛠️ Tech Stack
 
 **Languages:** Java • Python • JavaScript • SQL
-**Web:** React • Node.js • MERN Stack • REST APIs
-**AI/ML:** TensorFlow • Keras • CNN • LSTM
-**Database:** MySQL
-**Tools:** Git • GitHub • Cloudinary
-
-### 🎓 Education
-
-**B.E. Computer Engineering**
-🏫 Sinhgad Institute of Technology
-📅 2022–2026
-📊 **CGPA: 7.8 / 10**
-
-### 🏆 Certifications
-
-* 📜 **MERN Stack Development** — Apna College
-* 📜 **Python Essentials 1** — Cisco Networking Academy
-* 📜 **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** — Oracle
+**Java Backend:** Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • JWT • Microservices
+**Generative AI & LLMs:** LangChain • LlamaIndex • Hugging Face • Gemini API • RAG • Prompt Engineering
+**ML / Deep Learning:** TensorFlow • Keras • Scikit-learn • CNN • LSTM
+**Python Backend:** FastAPI • Django • Flask • Pandas • NumPy
+**Frontend:** React • HTML • CSS
+**Databases:** MySQL • PostgreSQL • MongoDB
+**Tools & Cloud:** Git • GitHub • Docker • Maven • Postman • AWS EC2 • Cloudinary
 
 ### 📌 Featured Projects
 
-* 💳 **Payment Gateway** — Payment simulation system using Java & Logical Data Modeling
-* 🧠 **Image Captioning (CapGen)** — Image caption generation using Python, TensorFlow, InceptionV3 & LSTM
-* 🏥 **HealthEase** — AI-powered healthcare assistant using React, Node.js, SQL & REST APIs
-* ☁️ **Cloud Drive** — Cloud-based photo management system using React, Node.js, SQL, REST APIs & Cloudinary
-* 🌦️ **Weather App** — Real-time weather forecasting application
-* 🔢 **Handwritten Digit Recognition** — Digit classification using Keras & TensorFlow
+**☕ Java**
+* 🏥 **Hospital Management System** — Spring Boot, Spring Data JPA, Hibernate, MySQL. Layered REST APIs with validation, exception handling, and Spring Security + JWT.
+
+**🤖 Generative AI / ML**
+* 🩺 **HealthEase** — AI healthcare assistant (MERN + Gemini API) with chatbot, hospital search, and appointment scheduling.
+* 🧠 **CapGen (Image Captioning)** — CNN + LSTM image-to-text model with 82% BLEU score, deployed with Gradio on Hugging Face Spaces.
+* 🏠 **House Price Prediction** — FastAPI + React app with batch CSV prediction, input validation, and Vercel deployment.
+* 🔢 **Handwritten Digit Recognition** — Digit classification using Keras & TensorFlow.
+
+**🌐 Full Stack**
+* ☁️ **Cloud Drive** — MERN photo management app with Cloudinary, 1,000+ uploads, 40% faster retrieval.
+
+### 🎓 Education
+
+**B.E. Computer Science & Engineering**
+🏫 Sinhgad Institute of Technology, Pune
+📅 2022–2026 | 📊 **CGPA: 7.8 / 10**
+
+### 🏆 Certifications
+
+* 📜 Full Stack Web Development (Spring Boot) — Amazon, Coursera
+* 📜 Machine Learning Using Python — Simplilearn
+* 📜 Oracle Cloud Infrastructure 2025 Certified Foundations Associate — Oracle
+* 📜 SQL Foundations — Microsoft, Coursera
+* 📜 MERN Stack — Apna College
+* 📜 Python Essentials 1 — Cisco Networking Academy
 
 ### 🌱 Currently Exploring
 
-* Spring Boot & Backend Development
-* Cloud Technologies
-* Data Structures & Algorithms
-* AI/ML Applications
+* Building RAG applications with LangChain & LlamaIndex
+* Microservices with Spring Boot
+* Cloud technologies and Docker
+* Data Structures & Algorithms (100+ LeetCode problems solved)
 
 ### 📫 Connect With Me
 
 🔗 **GitHub:** [Bhushan Zade](https://github.com/Bhushanzade-31)
 📧 **Email:** [bhushanzade.work@gmail.com](mailto:bhushanzade.work@gmail.com)
-📧 **Email:** [bhushanzade2003@gmail.com](mailto:bhushanzade2003@gmail.com)
 
 ---
 
